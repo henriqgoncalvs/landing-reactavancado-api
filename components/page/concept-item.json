@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_page_concept_items",
+  "info": {
+    "name": "conceptItem",
+    "icon": "align-left",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true
+    }
+  }
+}
